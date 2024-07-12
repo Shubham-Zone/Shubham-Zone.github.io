@@ -96768,9 +96768,9 @@ s=A.ca(A.aEA("assets/lottie/animation1.json",B.bD),g,s.a.a*0.4)
 q=A.aD(a1,g,f).w
 q=A.i2(A.a([s,A.ca(A.eD(A.a([A.agR(g,g,B.c_,g,g,!0,g,B.Ap,B.aB,g,g,B.a4,B.as),B.aM,B.Wn],o),B.b2,B.ae,B.I),g,q.a.a*0.4)],o),B.a3,B.cm,B.I)
 s=q}else{s=e.a
-s=A.eD(A.a([A.ca(A.ayk("assets/images/lottie2.png",B.bD,g),g,s*0.7),A.ca(A.eD(A.a([A.agR(g,g,B.c_,g,g,!0,g,B.Ap,B.aB,g,g,B.a4,B.as),B.aM,B.Wo],o),B.b2,B.ae,B.I),g,s*0.8)],o),B.a3,B.cm,B.I)}if(b){q=A.aD(a1,g,f).w
+s=A.eD(A.a([A.ca(A.ayk("assets/images/self.png",B.bD,g),g,s*0.7),A.ca(A.eD(A.a([A.agR(g,g,B.c_,g,g,!0,g,B.Ap,B.aB,g,g,B.a4,B.as),B.aM,B.Wo],o),B.b2,B.ae,B.I),g,s*0.8)],o),B.a3,B.cm,B.I)}if(b){q=A.aD(a1,g,f).w
 q=A.i2(A.a([A.ca(A.aEA("assets/lottie/animation4.json",B.bD),g,q.a.a*0.4),A.ca(B.Ed,g,A.aD(a1,g,f).w.a.a*0.4)],o),B.a3,B.cm,B.I)}else{q=A.aD(a1,g,f).w
-q=A.eD(A.a([A.ca(A.ayk("assets/images/lottie1.png",B.bD,g),g,q.a.a*0.7),B.aM,A.ca(B.Ee,g,A.aD(a1,g,f).w.a.a*0.8)],o),B.a3,B.cm,B.I)}p=t.sq
+q=A.eD(A.a([A.ca(A.ayk("assets/images/lottie3.png",B.bD,g),g,q.a.a*0.7),B.aM,A.ca(B.Ee,g,A.aD(a1,g,f).w.a.a*0.8)],o),B.a3,B.cm,B.I)}p=t.sq
 if(b){n=e.a*0.9
 m=r*0.5
 l=A.f8(24)

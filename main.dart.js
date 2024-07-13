@@ -96631,7 +96631,7 @@ s.tD(s.w)},
 $S:0}
 A.afc.prototype={
 $2(a,b){var s=this.a,r=this.b
-return A.aaN(B.cu,!1,1500,B.bD,B.G5,!0,b.b,J.br(s.e,r),B.k2,B.j5,!0,new A.afa(s,a,r),A.aD(a,null,t.w).w.a.a)},
+return A.aaN(B.cu,!1,1500,B.bD,B.G5,!0,b.b*0.4,J.br(s.e,r),B.k2,B.j5,!0,new A.afa(s,a,r),A.aD(a,null,t.w).w.a.a)},
 $S:551}
 A.afa.prototype={
 $0(){var s=A.acz(new A.af9(this.a,this.c),null,t.z)
